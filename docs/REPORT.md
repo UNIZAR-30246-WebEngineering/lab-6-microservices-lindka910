@@ -42,5 +42,5 @@ and update the configuration of your service config to use it.
   ![screen7_dashboard4.jpg](screenshots%2Fscreen7_dashboard4.jpg)
 <br>
 <br>
-  ![screen6_requests.jpg](screenshots%2Fscreen6_requests.jpg)
-  ![screen7_dashboard4.jpg](screenshots%2Fscreen7_dashboard4.jpg)
+![screen6_requests.jpg](screenshots%2Fscreen6_requests.jpg)
+![screen7_dashboard4.jpg](screenshots%2Fscreen7_dashboard4.jpg)
