@@ -5,16 +5,16 @@ and update the configuration of your service config to use it.
 - Link to the repository: https://github.com/lindka910/lab6-microservices-config-repo
 
 - Two services accounts (2222) and web are running and registered (two terminals). **Log screenshot**.
-  <br>
-  <br>
-  ![screen1_accounts.jpg](screenshots%2Fscreen1_accounts.jpg)
 <br>
 <br>
-  ![screen2_webserver.jpg](screenshots%2Fscreen2_webserver.jpg)
+![screen1_accounts.jpg](screenshots%2Fscreen1_accounts.jpg)
+<br>
+<br>
+![screen2_webserver.jpg](screenshots%2Fscreen2_webserver.jpg)
 <br>
 <br>
 - The service registration service has these two services registered (a third terminal). **Eureka dashboard screenshot**.
-  ![screen3_dashboardEureka.jpg](screenshots%2Fscreen3_dashboardEureka.jpg)
+![screen3_dashboardEureka.jpg](screenshots%2Fscreen3_dashboardEureka.jpg)
 <br>
 <br>
 - Update the configuration repository so that the accounts service uses now the port 3333. 
@@ -28,7 +28,7 @@ and update the configuration of your service config to use it.
 
   This update demonstrates the scalability of the microservices system and the ability to transparently implement changes in the configuration. Both instances of the account server can now process requests independently of each other, demonstrating the flexibility and ability to scale the system horizontally. 
     
-  ![screen4_dashboard2.jpg](screenshots%2Fscreen4_dashboard2.jpg)
+![screen4_dashboard2.jpg](screenshots%2Fscreen4_dashboard2.jpg)
 <br>
 <br>
 - What happens when you kill the service accounts (2222) and do requests to web?. **Explain and screenshots, including at least one Eureka dashboard screenshot**
