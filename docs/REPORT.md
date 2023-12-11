@@ -37,7 +37,6 @@ and update the configuration of your service config to use it.
 <br>
 - Can the web service provide information about the accounts again?. Why? **Explain and screenshots, including at least one Eureka dashboard screenshot**
   - Yes, the web service can provide information about accounts again. With the failover mechanism, the web service redirects requests to the available ACCOUNTS-SERVICE instance on port 3333. The system's resilience ensures continuity in delivering account information.
-  - 
   ![screen6_requests.jpg](screenshots%2Fscreen6_requests.jpg)
 <br>
 <br>
