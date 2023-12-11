@@ -1,4 +1,5 @@
-- Create your own configuration repository based on https://github.com/UNIZAR-30246-WebEngineering/lab6-microservices-config-repo 
+- Create your own configuration repository based on https:/
+- /github.com/UNIZAR-30246-WebEngineering/lab6-microservices-config-repo 
 and update the configuration of your service config to use it. 
 
 - Link to the repository: https://github.com/lindka910/lab6-microservices-config-repo
@@ -37,5 +38,9 @@ and update the configuration of your service config to use it.
 <br>
 - Can the web service provide information about the accounts again?. Why? **Explain and screenshots, including at least one Eureka dashboard screenshot**
   - Yes, the web service can provide information about accounts again. With the failover mechanism, the web service redirects requests to the available ACCOUNTS-SERVICE instance on port 3333. The system's resilience ensures continuity in delivering account information.
-![screen6_requests.jpg](screenshots%2Fscreen6_requests.jpg)
-![screen7_dashboard4.jpg](screenshots%2Fscreen7_dashboard4.jpg)
+  ![screen6_requests.jpg](screenshots%2Fscreen6_requests.jpg)
+<br>
+<br>
+  ![screen7_dashboard4.jpg](screenshots%2Fscreen7_dashboard4.jpg)
+<br>
+<br>
